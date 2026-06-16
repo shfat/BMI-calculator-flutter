@@ -103,3 +103,21 @@ This project follows a simple but clean separation of concerns:
 - Font Awesome Icons
 
 ---
+
+## 📱 Screenshots & Demo
+
+### App Demo
+
+![BMI Calculator Demo](assets/Gif.gif)
+
+### Results Page Gallery
+
+Here are different BMI result states displayed in the app:
+
+| Underweight | Normal Weight | Overweight |
+|-------------|---------------|------------|
+| ![Underweight](assets/screenshot_01.png) | ![Normal Weight](assets/screenshot_02.png) | ![Overweight](assets/screenshot_03.png) |
+
+| Obese Class I | Obese Class II | Obese Class III |
+|---------------|----------------|-----------------|
+| ![Obese I](assets/screenshot_04.png) | ![Obese II](assets/screenshot_05.png) | ![Obese III](assets/screenshot_06.png) |
