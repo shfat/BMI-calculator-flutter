@@ -116,8 +116,8 @@ Here are different BMI result states displayed in the app:
 
 | Underweight | Normal Weight | Overweight |
 |-------------|---------------|------------|
-| ![Underweight](assets/Screenshot_01.png) | ![Normal Weight](assets/Screenshot_02.png) | ![Overweight](assets/Screenshot_03.png) |
+| ![Underweight](assets/Screenshot_01.jpg) | ![Normal Weight](assets/Screenshot_02.jpg) | ![Overweight](assets/Screenshot_03.jpg) |
 
 | Obese Class I | Obese Class II | Obese Class III |
 |---------------|----------------|-----------------|
-| ![Obese I](assets/Screenshot_04.png) | ![Obese II](assets/Screenshot_05.png) | ![Obese III](assets/Screenshot_06.png) |
+| ![Obese I](assets/Screenshot_04.jpg) | ![Obese II](assets/Screenshot_05.jpg) | ![Obese III](assets/Screenshot_06.jpg) |
