@@ -1,28 +1,28 @@
-# 🧮 BMI Calculator App (Flutter)
+# BMI Calculator App
 
 A clean and interactive **BMI (Body Mass Index) Calculator mobile application** built with Flutter.  
 The app allows users to input gender, height, weight, and age, then calculates their BMI and provides categorized health feedback with a modern and responsive UI experience.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎯 Calculate BMI based on height and weight
-- 👤 Gender selection (Male / Female UI state)
-- 📏 Adjustable height slider (100cm – 260cm)
-- ⚖️ Increment/decrement controls for weight and age
-- ⏱️ Long-press auto-repeat functionality for increment/decrement buttons  
+- Calculate BMI based on height and weight
+- Gender selection (Male / Female UI state)
+- Adjustable height slider (100cm – 260cm)
+- Increment/decrement controls for weight and age
+- Long-press auto-repeat functionality for increment/decrement buttons  
   (Improves UX when adjusting values like weight and age)
-- 📊 Instant BMI result with category classification
-- 🎨 Color-coded health status (Normal / Overweight / Obese / Underweight)
-- 💬 Personalized interpretation messages
-- 🚫 Input rate-limiting to prevent SnackBar spam
-- 🧩 Fully reusable UI components
-- 🌙 Dark-themed modern UI design
+- Instant BMI result with category classification
+- Color-coded health status (Normal / Overweight / Obese / Underweight)
+- Personalized interpretation messages
+- Input rate-limiting to prevent SnackBar spam
+- Fully reusable UI components
+- Dark-themed modern UI design
 
 ---
 
-## 🧠 App Logic
+## App Logic
 
 The BMI calculation follows the standard formula:
 
@@ -44,7 +44,7 @@ Each category includes:
 
 ---
 
-## 🚀 Key UX Improvements
+## Key UX Improvements
 
 - Prevented repeated SnackBar spam using time-based throttling
 - Implemented long-press gesture detection for smoother value adjustment
@@ -53,7 +53,7 @@ Each category includes:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 lib/
@@ -72,7 +72,7 @@ lib/
 
 ---
 
-## 🧩 Architecture Overview
+## Architecture Overview
 
 This project follows a simple but clean separation of concerns:
 
@@ -83,7 +83,7 @@ This project follows a simple but clean separation of concerns:
 
 ---
 
-## 🎯 What I Learned
+## What I Learned
 
 - Flutter state management using `setState`
 - UI composition with reusable widgets
@@ -95,7 +95,7 @@ This project follows a simple but clean separation of concerns:
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - Flutter
 - Dart
@@ -104,7 +104,7 @@ This project follows a simple but clean separation of concerns:
 
 ---
 
-## 📱 Screenshots & Demo
+## Screenshots & Demo
 
 ### App Demo
 
